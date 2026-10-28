@@ -1,0 +1,6 @@
+.secrets/
+.profile/
+node_modules/
+runs/
+data/
+*.log
